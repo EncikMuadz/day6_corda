@@ -6,3 +6,7 @@
 ## Previous experience:
 - Run a corda network
 - Since the development is in JAVA, decision is not to pursue it..
+
+## Workflow
+- We are using deprecated corda samples
+- action were specified as java building with gradlew
